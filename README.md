@@ -4,8 +4,6 @@
 
 Start a task, walk away. Your phone/watch rings when Claude is done, stuck, or needs a decision.
 
-<img src="./call-me-comic-min.png" width="800" alt="CallMe comic strip">
-
 - **Minimal plugin** - Does one thing: call you on the phone. No crazy setups.
 - **Multi-turn conversations** - Talk through decisions naturally.
 - **Works anywhere** - Smartphone, smartwatch, or even landline!

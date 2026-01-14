@@ -106,7 +106,7 @@ Add these to `~/.claude/settings.json` (recommended) or export them in your shel
 ### 4. Install Plugin
 
 ```bash
-/plugin marketplace add ZeframLou/call-me
+/plugin marketplace add Bala-genpact/call-me_bala
 /plugin install callme@callme
 ```
 
